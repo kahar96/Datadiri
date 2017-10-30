@@ -1,0 +1,24 @@
+/* CSS Document*/
+
+.wrapper {
+width:1000px;height:auto; margin: 10px auto}
+
+h1{color:white; font-family:calibri; font-size:50px; text-align:center;
+}
+
+.header {
+width:1000px;height:150px;background-color:#5F9EA0;}
+
+.left {
+width:200px;height:400px;background-color:#ADD8E6;float:left;}
+h2{font-family:calibri; font-size:18px; text-align:center;
+}
+
+
+.right {
+width:800px;height:400px;background-color:white;float:left;}
+
+.footer {
+width:1000px;height:100px; background-color:#8FBC8F;clear:left;}
+h3{color:white;font-family:calibri; font-size:20px; text-align:right;
+}
